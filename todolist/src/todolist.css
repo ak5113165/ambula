@@ -1,0 +1,60 @@
+.todo-container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .input-container {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    flex: 1;
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    color: blueviolet;
+    padding: 5px 10px;
+    margin-left: 10px;
+    font-size: 16px;
+  }
+  .ankit{
+    background-color: beige;
+  }
+  .task-list {
+    font-size: medium;
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  span {
+    flex: 1;
+  }
+  
+  .button-group {
+    display: flex;
+  }
+  
+  .button-group button {
+    margin-left: 5px;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+  
